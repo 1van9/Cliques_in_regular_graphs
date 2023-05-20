@@ -4,4 +4,4 @@
 
 - Finding_polynomial_base - is used to find 20 matrixes with independent polynomials
 
-- Clique-search - is used to find the maximal clique example in $\text{Reg}(\Gamma_3(\mathbb{F}))$
+- Clique_search - is used to find the maximal clique example in $\text{Reg}(\Gamma_3(\mathbb{F}))$
